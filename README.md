@@ -73,13 +73,3 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on...
 * **Damir Elsik** ** - *UHI* - [Linkedin](https://www.linkedin.com/in/damir-elsik-36452b1b8/)
 * **Scott Graham** - *UHI* - [Linkedin](https://www.linkedin.com/in/scott-graham-42aa6b190/)
 * **Vittorio Rivabella** ** - *UHI* - [Linkedin](https://www.linkedin.com/in/vittorio-rivabella/)
-
-See also the list of [contributors](https://github.com/Code-and-Response/Project-Sample/graphs/contributors) who participated in this project.
-
-## License
-
-This project is licensed under the Apache 2 License - see the [LICENSE](LICENSE) file for details
-
-## Acknowledgments
-
-* Based on [Billie Thompson's README template](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2).
