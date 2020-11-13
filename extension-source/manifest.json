@@ -13,6 +13,7 @@
     "content_scripts": [
         {
             "js": ["inject.js"],
+            "css": ["./styles/styles.css"],
             "matches": ["*://*/*/*"],
             "include_globs":[
                 "*//www.amazon.com/*",
