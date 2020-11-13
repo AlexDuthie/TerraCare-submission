@@ -17,7 +17,8 @@
             "include_globs":[
                 "*//www.amazon.com/*",
                 "*//www.amazon.it/*",
-                "*//www.amazon.de/*"
+                "*//www.amazon.de/*",
+                "*//www.amazon.co.uk/*"
             ]
         }
     ]
