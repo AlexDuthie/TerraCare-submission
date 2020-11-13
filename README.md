@@ -52,15 +52,13 @@ Too many solutions focus on solving the problem and not solving the root cause, 
 
 ### Installing
 
-## Running the tests
-
-### Break down into end to end tests
-
-### And coding style tests
-
 ## Live demo
 
 ## Built with
+
+* [IBM Cloud]()
+* [IBM Cloud Foundry]()
+* [IBM Pipeline]()
 
 ## Contributing
 
