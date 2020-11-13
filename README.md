@@ -56,9 +56,9 @@ Too many solutions focus on solving the problem and not solving the root cause, 
 
 ## Built with
 
-* [IBM Cloud]()
-* [IBM Cloud Foundry]()
-* [IBM Pipeline]()
+* [IBM Cloud](https://cloud.ibm.com/)
+* [IBM Cloud Foundry](https://www.cloudfoundry.org/the-foundry/ibm-cloud-foundry/)
+* [IBM Pipeline](https://www.ibm.com/garage/method/practices/deliver/tool_delivery_pipeline/)
 
 ## Contributing
 
