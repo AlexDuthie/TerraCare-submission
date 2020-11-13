@@ -28,6 +28,15 @@ li{
     font-size: 16px !important;
 }
 
+#tc-btn-amz {
+    padding: 3px;
+    font-weight: 500;
+}
+
+.compare-link{
+    margin-left: 10px;
+}
+
 .item-container{
     margin-bottom: 10px;
     padding-bottom: 5px;
