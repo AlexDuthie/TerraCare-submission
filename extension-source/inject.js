@@ -5,13 +5,15 @@
             name : "item-1",
             description: "Lorem ipsum dolor sit amet",
             price: "20.50$",
-            link : "https://www.amazon.it/dp/B07DJ3ZC8Z/"
+            link : "https://www.amazon.it/dp/B07DJ3ZC8Z/",
+            img: "https://via.placeholder.com/50"
         },
         {
             name: "item-2",
             description: "Lorem ipsum dolor sit amet",
             price: "27.50$",
-            link : "https://www.amazon.it/dp/B07DJ3ZC8Z/"
+            link : "https://www.amazon.it/dp/B07DJ3ZC8Z/",
+            img: "https://via.placeholder.com/50"
         }
     ]
 
@@ -24,6 +26,9 @@
         let itemAlternative = document.createElement('li');
         let itemContainer = document.createElement('div');
         itemContainer.className = "item-container";
+
+        let itemImage = document.createElement('img');
+        itemImage.src = item.img;
 
         let itemName = document.createElement('h4');
         itemName.className = 'item-name'
@@ -39,7 +44,7 @@
         itemLink.innerText = "go to page";
         itemLink.href = item.link;
         
-
+        itemContainer.appendChild(itemImage);
         itemContainer.appendChild(itemName);
         itemContainer.appendChild(itemDescription);
         itemContainer.appendChild(itemPrice);
