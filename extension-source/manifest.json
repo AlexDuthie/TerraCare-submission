@@ -13,7 +13,12 @@
     "content_scripts": [
         {
             "js": ["inject.js"],
-            "matches": ["*://www.google.    ", ""]
+            "matches": ["*://*/*/*"],
+            "include_globs":[
+                "*//www.amazon.com/*",
+                "*//www.amazon.it/*",
+                "*//www.amazon.de/*"
+            ]
         }
     ]
 
