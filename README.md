@@ -31,7 +31,7 @@ But mostly: thanks to **IBM Watson ML and IBM Services**. We will be able to dev
 
 ## Long description
 
-Here you can read [A brief statement of **Our Vision** 👈](DESCRIPTION.md)
+Here you can read [A brief statement of **Our Vision** 👈](LONG_DESCRIPTION.md)
 
 
 ## Demo video
