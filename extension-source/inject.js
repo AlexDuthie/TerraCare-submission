@@ -60,7 +60,7 @@
     });
 
     let webLink = document.createElement('a');
-    webLink.href = "https://extension-landing-page-active-cat.eu-gb.mybluemix.net/#/";
+    webLink.href = "https://extension-landing-page.eu-gb.mybluemix.net/#/";
     webLink.innerText = "Visit the website";
     dropdown.appendChild(itemList);
     dropdown.appendChild(webLink);

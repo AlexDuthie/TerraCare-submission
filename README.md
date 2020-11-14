@@ -1,66 +1,74 @@
 # Terra Care Extension - Call for Code
 
-TerraCare is brought to you by a team of 5 1st year Software Development BSc (Hons) students from the University of the Highlands and Islands.
-
-## Contributors
-
-* **Alex Duthie**: [Linkedin](https://www.linkedin.com/in/alexduthielnkdn/) - [Github](https://github.com/AlexDuthie)
-* **Andrew Ellen**: [Linkedin](https://www.linkedin.com/in/andrew-ellen-3719361b5/) - [Github](https://github.com/AndyE77)
-* **Damir Elsik**: [Linkedin](https://www.linkedin.com/in/damir-elsik-36452b1b8/)
-* **Scott Graham**: [Linkedin](https://www.linkedin.com/in/scott-graham-42aa6b190/) - [Github](https://github.com/scottnotscott)
-* **Vittorio Rivabella**: [Linkedin](https://www.linkedin.com/in/vittorio-rivabella/) - [Github](https://github.com/Eversmile12)
-
 ## Contents
 
 1. [Short description](#short-description)
+1. [The idea](#the-idea)
+1. [Long description](#long-description)
 1. [Demo video](#demo-video)
 1. [The architecture](#the-architecture)
-1. [Long description](#long-description)
 1. [Project roadmap](#project-roadmap)
 1. [Getting started](#getting-started)
-1. [Running the tests](#running-the-tests)
 1. [Live demo](#live-demo)
 1. [Built with](#built-with)
-1. [Contributing](#contributing)
-1. [Versioning](#versioning)
 1. [Authors](#authors)
-1. [Acknowledgments](#acknowledgments)
+
 
 ## Short description
-
-Too many solutions focus on solving the problem and not solving the root cause, why not solve both?
-
-### What's the problem?
+Eco alternatives on the fly, **save the Environment from your screen.**
 
 
-### How can technology help?
+### **The idea**
+>*“Any sufficiently advanced technology is indistinguishable from magic".*
+Clarke's three laws
 
+Using Data from:
+ * **EPREL**, the European Product Registry for Energy Labelling. 
+* **Producer** and buyer locations to calculate travel distance.
+* Informations about the products and its **production processes**. 
 
-### The idea
+But mostly: thanks to **IBM Watson ML and IBM Services**. We will be able to develop a **Machine Learning model** capable of finding alternative and more sustainable, products, served to the Users via a **simple browser extension.**
+
+## Long description
+
+Here you can read [A brief statement of **Our Vision** 👈](DESCRIPTION.md)
 
 
 ## Demo video
 
-[![Watch the video](https://github.com/AlexDuthie/TerraCare-Extension/blob/main/assets/images/thumbnail.png)](https://youtu.be/lfMkRlTaE3M)
+[![Watch the video](assets/images/thumbnail.png)](https://youtu.be/lfMkRlTaE3M)
 
 ## The architecture
 
+![ArchitectureMap](assets/images/Infrastructure-schema.jpg)
 
-## Long description
-
-[More detail is available here](DESCRIPTION.md)
 
 ## Project roadmap
 
-![Roadmap]()
+![Roadmap](assets/images/TerraCare_Roadmap.png)
 
 ## Getting started
 
 ### Prerequisites
+- A laptop or a PC
+- Chrome browser
 
 ### Installing
+* Download this repository to your device
+* Open Chrome
+* Write in the URL search bar
+```
+chrome://extensions   
+```
+* Activate developer mode (extension is  not yet deployed) :)
+* Click on Load Unpacked and upload the folder "extension-source"
+* Navigate to an Amazon product page and click on the "Compare Items" button.
+
+**Enjoy!**
 
 ## Live demo
+**[Visit now our live Demo!](https://extension-landing-page.eu-gb.mybluemix.net/#/)** 👈
+
 
 ## Built with
 
@@ -68,6 +76,18 @@ Too many solutions focus on solving the problem and not solving the root cause, 
 * [IBM Cloud Foundry](https://www.cloudfoundry.org/the-foundry/ibm-cloud-foundry/)
 * [IBM Pipeline](https://www.ibm.com/garage/method/practices/deliver/tool_delivery_pipeline/)
 
-## Contributing
+### And planned with
+* [IBM Watson](https://www.ibm.com/watson)
 
-Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on...
+
+## Authors
+
+* **Alex Duthie**: [Linkedin](https://www.linkedin.com/in/alexduthielnkdn/) - [Github](https://github.com/AlexDuthie)
+* **Andrew Ellen**: [Linkedin](https://www.linkedin.com/in/andrew-ellen-3719361b5/) - [Github](https://github.com/AndyE77)
+* **Damir Elsik**: [Linkedin](https://www.linkedin.com/in/damir-elsik-36452b1b8/)
+* **Scott Graham**: [Linkedin](https://www.linkedin.com/in/scott-graham-42aa6b190/) - [Github](https://github.com/scottnotscott)
+* **Vittorio Rivabella**: [Linkedin](https://www.linkedin.com/in/vittorio-rivabella/) - [Github](https://github.com/Eversmile12)
+
+TerraCare is brought to you by a team of five 1st year Software development BSc students from the [University of the Highlands and Islands.](https://www.uhi.ac.uk/en/courses/bsc-hons-applied-software-development/)
+
+Thank you for reading our submission! 
