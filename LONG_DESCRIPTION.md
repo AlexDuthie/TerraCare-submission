@@ -2,11 +2,11 @@
 
 ## Contents
 
-1. [What's the Problem?](#what's-the-problem)
-1. [How TerraCare will help?](#how-terracare-will-help)
-1. [How does it work?](#how-does-it-work)
-1. [How energy information would be simplified](#how-would-we-simplify-the-information)
-1. [Product Summary](#summary)
+1. [The Problem](#what's-the-problem)
+1. [How TerraCare can help](#how-terracare-will-help)
+1. [How it works](#how-does-it-work)
+1. [Simplifying Energy Information](#how-would-we-simplify-the-information)
+1. [Summary](#summary)
 1. [Contributors](#contributors)
 
 
