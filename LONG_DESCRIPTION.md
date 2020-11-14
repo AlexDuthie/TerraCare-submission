@@ -2,9 +2,9 @@
 
 ## Contents
 
-1. [What's the Problem?](#what's-the-problem?)
-1. [How TerraCare will help?](#how-terracare-will-help?)
-2. [How does it work?](#how-does-it-work?)
+1. [What's the Problem?](#what's-the-problem)
+1. [How TerraCare will help?](#how-terracare-will-help)
+2. [How does it work?](#how-does-it-work)
 
 
 ## What’s the problem?
