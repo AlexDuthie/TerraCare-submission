@@ -1,5 +1,12 @@
 # TerraCare Browser Extension | Long Description
 
+## Contents
+
+1. [What's the Problem?](#what's-the-problem?)
+1. [How TerraCare will help?](#how-terracare-will-help?)
+2. [How does it work?](#how-does-it-work?)
+
+
 ## What’s the problem?
 
 Almost 2 billion people ordered online last year which is astonishing. The energy information that is displayed to you when you shop online can be quite tedious or non-existent. Customers are not giving a simple enough explanation on their product's energy consumption rates.
@@ -21,7 +28,7 @@ The main goal is to:
 * Create a network with smaller and more local businesses.
 * Provide a scoring system for the user to display how energy efficient they shops have been.
 
-### What is TerraCare and how does it work? 
+### How does it work? 
 
 The plugin itself would only activate when browsing on an online product page. When visiting these pages, you will be prompted with lists of alternative products. These are found using a database containing tables full of appliances with all the relevant product information.
 
