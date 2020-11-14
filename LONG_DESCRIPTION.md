@@ -4,7 +4,10 @@
 
 1. [What's the Problem?](#what's-the-problem)
 1. [How TerraCare will help?](#how-terracare-will-help)
-2. [How does it work?](#how-does-it-work)
+1. [How does it work?](#how-does-it-work)
+1. [How energy information would be simplified](#how-would-we-simplify-the-information)
+1. [Product Summary](#summary)
+1. [Contributors](#contributors)
 
 
 ## What’s the problem?
@@ -32,7 +35,7 @@ The main goal is to:
 
 The plugin itself would only activate when browsing on an online product page. When visiting these pages, you will be prompted with lists of alternative products. These are found using a database containing tables full of appliances with all the relevant product information.
 
-### How would we simplify the energy information? 
+### How would we simplify the information? 
 
 TerraCare would grab the energy information on products and display it in ways easier to read by providing:
 
@@ -54,8 +57,8 @@ Thank you for reading our submission!
 
 ## Contributors
 
-* Alex Duthie, UHI 
-* Vittorio Rivabella, UHI 
-* Scott Graham, UHI
-* Andrew Ellen, UHI 
-* Damir Elsik, UHI  
+* **Alex Duthie**: [Linkedin](https://www.linkedin.com/in/alexduthielnkdn/) - [Github](https://github.com/AlexDuthie)
+* **Andrew Ellen**: [Linkedin](https://www.linkedin.com/in/andrew-ellen-3719361b5/) - [Github](https://github.com/AndyE77)
+* **Damir Elsik**: [Linkedin](https://www.linkedin.com/in/damir-elsik-36452b1b8/)
+* **Scott Graham**: [Linkedin](https://www.linkedin.com/in/scott-graham-42aa6b190/) - [Github](https://github.com/scottnotscott)
+* **Vittorio Rivabella**: [Linkedin](https://www.linkedin.com/in/vittorio-rivabella/) - [Github](https://github.com/Eversmile12)
