@@ -30,6 +30,10 @@ TerraCare is brought to you by a team of 5 1st year Software Development BSc (Ho
 
 Too many solutions focus on solving the problem and not solving the root cause, why not solve both?
 
+## Long description
+
+[See here for Long Description](LONG_DESCRIPTION.md)
+
 ### What's the problem?
 
 
