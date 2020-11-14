@@ -48,10 +48,11 @@ Here you can read [A brief statement of **Our Vision** 👈](LONG_DESCRIPTION.md
 ![Roadmap](assets/images/TerraCare_Roadmap.png)
 
 ## Getting started
+>*The extension is planned to be released for Firefox and other popular browser at a later time.*
 
 ### Prerequisites
 - A laptop or a PC
-- Chrome browser
+- **Chrome** browser
 
 ### Installing
 * Download this repository to your device
