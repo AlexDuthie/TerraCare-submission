@@ -2,6 +2,14 @@
 
 TerraCare is brought to you by a team of 5 1st year Software Development BSc (Hons) students from the University of the Highlands and Islands.
 
+## Contributors
+
+* **Alex Duthie**: [Linkedin](https://www.linkedin.com/in/alexduthielnkdn/) - [Github](https://github.com/AlexDuthie)
+* **Andrew Ellen**: [Linkedin](https://www.linkedin.com/in/andrew-ellen-3719361b5/) - [Github](https://github.com/AndyE77)
+* **Damir Elsik**: [Linkedin](https://www.linkedin.com/in/damir-elsik-36452b1b8/)
+* **Scott Graham**: [Linkedin](https://www.linkedin.com/in/scott-graham-42aa6b190/) - [Github](https://github.com/scottnotscott)
+* **Vittorio Rivabella**: [Linkedin](https://www.linkedin.com/in/vittorio-rivabella/) - [Github](https://github.com/Eversmile12)
+
 ## Contents
 
 1. [Short description](#short-description)
@@ -63,11 +71,3 @@ Too many solutions focus on solving the problem and not solving the root cause, 
 ## Contributing
 
 Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on...
-
-## Authors
-
-* **Alex Duthie** - *UHI* - [Linkedin](https://www.linkedin.com/in/alexduthielnkdn/)
-* **Andrew Ellen** ** - *UHI* - [Linkedin](https://www.linkedin.com/in/andrew-ellen-3719361b5/)
-* **Damir Elsik** ** - *UHI* - [Linkedin](https://www.linkedin.com/in/damir-elsik-36452b1b8/)
-* **Scott Graham** - *UHI* - [Linkedin](https://www.linkedin.com/in/scott-graham-42aa6b190/)
-* **Vittorio Rivabella** ** - *UHI* - [Linkedin](https://www.linkedin.com/in/vittorio-rivabella/)
