@@ -6,6 +6,7 @@
 1. [The idea](#the-idea)
 1. [Long description](#long-description)
 1. [Demo video](#demo-video)
+1. [Word Cloud](#word-cloud)
 1. [The architecture](#the-architecture)
 1. [Project roadmap](#project-roadmap)
 1. [Getting started](#getting-started)
@@ -38,14 +39,18 @@ Here you can read [A brief statement of **Our Vision** 👈](LONG_DESCRIPTION.md
 
 [![Watch the video](assets/images/thumbnail.png)](https://youtu.be/lfMkRlTaE3M)
 
-## The architecture
 
-![ArchitectureMap](assets/images/Infrastructure-schema.jpg)
+## Word cloud
+![Word Cloud](assets/images/wordcloud.png)
 
 
 ## Project roadmap
 
 ![Roadmap](assets/images/TerraCare_Roadmap.png)
+
+## The architecture
+
+![ArchitectureMap](assets/images/Infrastructure-schema.jpg)
 
 ## Getting started
 >*The extension is planned to be released for Firefox and other popular browser at a later time.*
