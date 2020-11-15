@@ -1,0 +1,7 @@
+applications:
+    - name: vue-tutorial
+      path: ./dist
+      buildpack: https://github.com/cloudfoundry/staticfile-buildpack.git
+      memory: 256M
+      env:
+          FORCE_HTTPS: true
