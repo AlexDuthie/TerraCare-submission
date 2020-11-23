@@ -52,7 +52,7 @@ Eco alternatives on the fly, **save the Environment from your screen.**
 
 ## Video Demo
 
-[![DEMO #1](src/assets/images/thumbnail.png)](https://www.youtube.com/watch?v=a2NpwNfqGX0&t=12s)
+[![DEMO #1](assets/images/thumbnail.png)](https://www.youtube.com/watch?v=a2NpwNfqGX0&t=12s)
 
 > [**Back to Top**](#official-repository-for-terraCare)
 
