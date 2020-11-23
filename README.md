@@ -1,103 +1,83 @@
-# Terra Care Extension - Call for Code
+# Official Repository for [TerraCare](https://extension-landing-page.eu-gb.mybluemix.net/#/)
+
+**1st Prize Winner of [IBM](https://www.ibm.com/)'s 2020 Call for Code *[University Spot](https://developer.ibm.com/blogs/call-for-code-university-spot-challenge-europe-middle-east-and-africa-students-versus-climate-change/)* Challenge in Energy Sustainablity**
+
+![](src/assets/images/logos/logo_no_text.png)
 
 ## Contents
 
-1. [Short description](#short-description)
-1. [The idea](#the-idea)
-1. [Long description](#long-description)
-1. [Demo video](#demo-video)
-1. [Word Cloud](#word-cloud)
-1. [The architecture](#the-architecture)
-1. [Project roadmap](#project-roadmap)
-1. [Getting started](#getting-started)
-1. [Live demo](#live-demo)
-1. [Built with](#built-with)
-1. [Authors](#authors)
+1. [TerraCare Web Prototype](#terracare-web-prototype)
+1. [Short Description](#short-description)
+1. [Long Description](#long-description)
+1. [Services Used](#services-used)
+1. [Video Demo](#video-demo)
+1. [Roadmap](#terracare-roadmap)
+1. [Extension Guide](#extension-installation-guide)
+1. [Contributors](#contributors)
 
-## The Website
+## TerraCare Web Prototype
 
-* **https://extension-landing-page.eu-gb.mybluemix.net/#/**
+[**Click Here**](https://extension-landing-page.eu-gb.mybluemix.net/#/)
 
+> [**Back to Top**](#official-repository-for-terraCare)
 
-## Short description
+## Short Description
 Eco alternatives on the fly, **save the Environment from your screen.**
 
+>*“Any sufficiently advanced technology is indistinguishable from magic"* - Clarke's three laws
 
-### **The idea**
->*“Any sufficiently advanced technology is indistinguishable from magic".*
-Clarke's three laws
+> [**Back to Top**](#official-repository-for-terraCare)
 
-Using Data from:
- * **EPREL**, the European Product Registry for Energy Labelling. 
-* **Producer** and buyer locations to calculate travel distance.
-* Informations about the products and its **production processes**. 
+## Long Description
 
-But mostly: thanks to **IBM Watson ML and IBM Services**. We will be able to develop a **Machine Learning model** capable of finding alternative and more sustainable, products, served to the Users via a **simple browser extension.**
+[See Here](LONG_DESCRIPTION.md)
 
-## Long description
+> [**Back to Top**](#official-repository-for-terraCare)
 
-Here you can read [A brief statement of **Our Vision** 👈](LONG_DESCRIPTION.md)
+## Services Used
 
-
-## Demo video
-
-[![Watch the video](assets/images/thumbnail.png)](https://youtu.be/lfMkRlTaE3M)
-
-
-## Word cloud
-![Word Cloud](assets/images/wordcloud.png)
-
-
-## Project roadmap
-
-![Roadmap](assets/images/TerraCare_Roadmap.png)
-
-## The architecture
-
-![ArchitectureMap](assets/images/Infrastructure-schema.jpg)
-
-## Getting started
->*The extension is planned to be released for Firefox and other popular browser at a later time.*
-
-### Prerequisites
-- A laptop or a PC
-- **Chrome** browser
-
-### Installing
-* Download this repository to your device
-* Open Chrome
-* Write in the URL search bar
-```
-chrome://extensions   
-```
-* Activate developer mode (extension is  not yet deployed) :)
-* Click on Load Unpacked and upload the folder "extension-source"
-* Navigate to an Amazon product page and click on the "Compare Items" button.
-
-**Enjoy!**
-
-## Live demo
-**[Visit now our live Demo!](https://extension-landing-page.eu-gb.mybluemix.net/#/)** 👈
-
-
-## Built with
-
-* [IBM Cloud](https://cloud.ibm.com/)
+* [EPREL DB/API](https://ec.europa.eu/info/energy-climate-change-environment/standards-tools-and-labels/products-labelling-rules-and-requirements/energy-label-and-ecodesign/product-database_en)
+* [IBM Cloud](https://www.ibm.com/uk-en/cloud)
+* [IBM Watson](https://www.ibm.com/uk-en/watson)
+* [IBM Pipeline](https://cloud.ibm.com/docs/ContinuousDelivery?topic=ContinuousDelivery-deliverypipeline_about)
 * [IBM Cloud Foundry](https://www.cloudfoundry.org/the-foundry/ibm-cloud-foundry/)
-* [IBM Pipeline](https://www.ibm.com/garage/method/practices/deliver/tool_delivery_pipeline/)
 
-### And planned with
-* [IBM Watson](https://www.ibm.com/watson)
+> [**Back to Top**](#official-repository-for-terraCare)
 
+## TerraCare Roadmap
 
-## Authors
+![Roadmap](Roadmap.png)
+
+> [**Back to Top**](#official-repository-for-terraCare)
+
+## Video Demo
+
+[![DEMO #1](src/assets/images/thumbnail.png)](https://www.youtube.com/watch?v=a2NpwNfqGX0&t=12s)
+
+> [**Back to Top**](#official-repository-for-terraCare)
+
+## Extension Installation Guide
+
+* Clone this Repo
+* Open Google Chrome Browser
+ * Click the three dots in the top-right corner of Chrome Browser
+ * Select 'More Tools'
+ * Select 'Extensions'
+ * Enable 'Developer Mode' on Extensions Page (top-right corner)
+ * Select 'Load Un-Packed' (top-left of page)
+ * Add the 'extension-source' folder
+* Go to an [Amazon](www.amazon.com) page
+
+*This will enable the extension*
+
+> **The Extension only enables on [Amazon](www.amazon.com) at the moment**
+
+> [**Back to Top**](#official-repository-for-terraCare)
+
+## Contributors
 
 * **Alex Duthie**: [Linkedin](https://www.linkedin.com/in/alexduthielnkdn/) - [Github](https://github.com/AlexDuthie)
-* **Andrew Ellen**: [Linkedin](https://www.linkedin.com/in/andrew-ellen-3719361b5/) - [Github](https://github.com/AndyE77)
-* **Damir Elsik**: [Linkedin](https://www.linkedin.com/in/damir-elsik-36452b1b8/)
 * **Scott Graham**: [Linkedin](https://www.linkedin.com/in/scott-graham-42aa6b190/) - [Github](https://github.com/scottnotscott)
 * **Vittorio Rivabella**: [Linkedin](https://www.linkedin.com/in/vittorio-rivabella/) - [Github](https://github.com/Eversmile12)
 
-TerraCare is brought to you by a team of five 1st year Software development BSc students from the [University of the Highlands and Islands.](https://www.uhi.ac.uk/en/courses/bsc-hons-applied-software-development/)
-
-Thank you for reading our submission! 
+> [**Back to Top**](#official-repository-for-terraCare)
