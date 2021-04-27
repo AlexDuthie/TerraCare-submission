@@ -2,8 +2,6 @@
 
 **1st Prize Winner of [IBM](https://www.ibm.com/)'s 2020 Call for Code *[University Spot](https://developer.ibm.com/blogs/call-for-code-university-spot-challenge-europe-middle-east-and-africa-students-versus-climate-change/)* Challenge in Energy Sustainablity**
 
-![](src/assets/images/logos/logo_no_text.png)
-
 ## Contents
 
 1. [TerraCare Web Prototype](#terracare-web-prototype)
